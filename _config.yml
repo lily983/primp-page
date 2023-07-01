@@ -1,7 +1,7 @@
 title: PRIMP
 email: ruansp@nus.edu.sg
 description:
-  Project page for "PRIMP: PRobabilistically-Informed Motion Primitives for Efficient Affordance Learning from Demonstration". A learning-from-demonstration (LfD) method that combines with guided motion planning and affordance learning.
+  Project page for "PRIMP -- PRobabilistically-Informed Motion Primitives for Efficient Affordance Learning from Demonstration". A learning-from-demonstration (LfD) method that combines with guided motion planning and affordance learning.
 github_username: ruansp
 theme: jekyll-theme-cayman
 baseurl: /primp-page
