@@ -9,7 +9,7 @@
 
 ## Links
 - Paper: [Arxiv](https://arxiv.org/abs/2305.15761){:target="_blank"}, [OpenReview](https://openreview.net/forum?id=cpT4zTZPAS){:target="_blank"}
-- Poster: [PDF]({site.baseurl}}/resources/poster-rss-workshop-l4tamp-rsp-final.pdf)
+- Poster: [PDF](/resources/poster-rss-workshop-l4tamp-rsp-final.pdf){:target="_blank"}
 - Code (coming soon):
   - Source code: [MATLAB](https://www.github.com/ChirikjianLab/primp-matlab/){:target="_blank"}, [Python](https://www.github.com/ChirikjianLab/primp-python/){:target="_blank"}
   - Documentation
