@@ -9,11 +9,13 @@
 
 ## Links
 - Paper: [Arxiv](https://arxiv.org/abs/2305.15761){:target="_blank"}, [OpenReview](https://openreview.net/forum?id=cpT4zTZPAS){:target="_blank"}
-- Poster (coming soon): [PDF]()
-  - Present in RSS 2023 workshop on [Learning for Task and Motion Planning](https://zt-yang.github.io/rss23-l4tamp-workshop/){:target="_blank"}
+- Poster: [PDF]({site.baseurl}}/resources/poster-rss-workshop-l4tamp-rsp-final.pdf)
 - Code (coming soon):
   - Source code: [MATLAB](https://www.github.com/ChirikjianLab/primp-matlab/){:target="_blank"}, [Python](https://www.github.com/ChirikjianLab/primp-python/){:target="_blank"}
   - Documentation
+
+## Presentations
+- [July 10, 2023; Daegu, South Korea] Presented in RSS 2023 workshop on [Learning for Task and Motion Planning](https://zt-yang.github.io/rss23-l4tamp-workshop/){:target="_blank"}
 
 ## Supplementary Video
 (Coming soon)
