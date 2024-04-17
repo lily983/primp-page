@@ -46,7 +46,7 @@ Published in __IEEE Transactions on Robotics (T-RO)__
 - Skills can be easily transferred to another robot by adapting to its workspace density
 <p align="center">
 <img src="https://github.com/lily983/primp-page/assets/71541515/f7e8b1fe-02b8-4d3d-9d51-0966a65c5f32" alt="robot agnostic" width="400" />
-
+</p>
 
 ### Combines with affordance learning
 - Learning object affordance through physical interaction so that the skill can be applied to novel objects with the same affordance
