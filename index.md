@@ -25,30 +25,30 @@ Published in __IEEE Transactions on Robotics (T-RO)__
 - **Presentations:** Presented in RSS 2023 workshop on [Learning for Task and Motion Planning](https://zt-yang.github.io/rss23-l4tamp-workshop/){:target="_blank"}
  
 
-## Features of PRIMP
-### Adaptation to new situations
-- Novel via-point poses with uncertainty
+## Features of PRIMP:
+### 1) Adaptation to new situations
+- Novel **via-point** with uncertainty
 <p align="center">
   <img src="https://github.com/ChirikjianLab/primp-page/assets/71541515/49382079-edd6-4c35-9731-4451c08c3799" alt="via point" width="400" />
 </p>
 
-- The equivariance property under the change of viewing frame
+- The equivariance property under the **change of viewing frame**
 <p align="center">
 <img src="https://github.com/ChirikjianLab/primp-page/assets/71541515/dca9589d-1cbc-487c-9779-e7037fe1449d" alt="view frame" width="400" />
 </p>
 
-- Avoid previously unseen obstacles while keeping the key features (The proposed Workspace-STOMP)
+- Avoid previously **unseen obstacles** while keeping the key features (The proposed Workspace-STOMP)
 <p align="center">
 <img src="https://github.com/lily983/primp-page/assets/71541515/501de672-9777-436c-a150-2746fdfabcd8" alt="avoid obs" width="400" />
 </p>
 
-### Robot-agnostic
+### 2) Robot-agnostic
 - Skills can be easily transferred to another robot by adapting to its workspace density
 <p align="center">
 <img src="https://github.com/lily983/primp-page/assets/71541515/f7e8b1fe-02b8-4d3d-9d51-0966a65c5f32" alt="robot agnostic" width="400" />
 </p>
 
-### Combines with affordance learning
+### 3) Combines with affordance learning
 - Learning object affordance through physical interaction so that the skill can be applied to novel objects with the same affordance
 <p align="center">
 <img src="https://github.com/ChirikjianLab/primp-page/assets/71541515/b3fbd871-67f7-47a9-b260-ab1a33297b3f" alt="affordance" width="400" />
